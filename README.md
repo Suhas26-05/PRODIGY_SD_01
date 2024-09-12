@@ -1,5 +1,4 @@
-# PRODIGY_SD_01
-# Temperature Converter
+# PRODIGY_SD_01 Temperature Converter
 
 This is a Python application that provides a graphical user interface (GUI) for converting temperatures between Celsius, Fahrenheit, and Kelvin. The program uses the Tkinter library to create an interactive window where users can input a temperature in one unit and get the equivalent temperature in the other two units.
 
